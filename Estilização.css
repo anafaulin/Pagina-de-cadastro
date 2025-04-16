@@ -1,0 +1,33 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(227, 220, 245);
+    padding: 20px;
+}
+h1{
+    color:darkslateblue;
+    text-align: center;
+}
+p{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+input, select, textarea {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+button{
+    color:white;
+    background-color: rgb(46, 24, 97);
+    border-radius: 5px;
+    padding: 6px 10px;
+}
+table{
+    text-align: center;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
